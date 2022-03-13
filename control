@@ -1,0 +1,9 @@
+Package: com.said.snapchatx
+Name: SnapchatX
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Not finished - check source code 
+Maintainer: Said Al Mujaini
+Author: Said Al Mujaini
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.said.smhookmemory (>= 1.1.0)
